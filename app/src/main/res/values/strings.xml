@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Elasticity Calculator</string>
+
+    <string name="top_variable">Top Variable</string>
+    <string name="bottom_variable">Bottom Variable</string>
+    <string name="variable_initial">Initial</string>
+    <string name="variable_final">Final</string>
+    <string name="top_percent_change">Top % Change:</string>
+    <string name="bottom_percent_change">Bottom % Change</string>
+    <string name="button">CALCULATE</string>
+    <string name="action_settings">Settings</string>
+</resources>

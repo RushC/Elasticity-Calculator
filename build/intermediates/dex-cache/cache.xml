@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Caleb Rush\Google Drive\Folder\Android\ElasticityCalculator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\Caleb Rush\Google Drive\Folder\Android\ElasticityCalculator\app\build\intermediates\pre-dexed\debug\classes-f16ec0b5b2794ca191ae8289b0f9cb96b5628a31.jar" />
+    </item>
+    <item
+        jar="C:\Users\Caleb Rush\Google Drive\Folder\Android\ElasticityCalculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\Caleb Rush\Google Drive\Folder\Android\ElasticityCalculator\app\build\intermediates\pre-dexed\debug\classes-b460ce29fe6bc7b37b368bffef0d4a13c706e080.jar" />
+    </item>
+    <item
+        jar="C:\Users\Caleb Rush\Google Drive\Folder\Android\ElasticityCalculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\Caleb Rush\Google Drive\Folder\Android\ElasticityCalculator\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-8e03d5e8f0d55b05bc98cc1f8b78f60258b52330.jar" />
+    </item>
+    <item
+        jar="D:\Android SDK\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\Caleb Rush\Google Drive\Folder\Android\ElasticityCalculator\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-71eea8bf2438444660ada556df76a0b19d84c6c4.jar" />
+    </item>
+
+</items>
