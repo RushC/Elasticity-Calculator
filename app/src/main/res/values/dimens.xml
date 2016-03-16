@@ -1,0 +1,13 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- Result String dimensions. -->
+    <dimen name="result_font_size">30sp</dimen>
+    <dimen name="result_text_view_height">40dp</dimen>
+    <!-- Heading String dimension. -->
+    <dimen name="heading_font_size">20sp</dimen>
+    <!-- Header TextView Padding. -->
+    <dimen name="heading_vertical_padding">10dp</dimen>
+    <dimen name="heading_horizontal_padding">10dp</dimen>
+</resources>
